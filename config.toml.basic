@@ -1,0 +1,4 @@
+baseURL = "http://vermontsoloretreat.org"
+languageCode = "en-us"
+title = "Vermont Solo Retreat"
+theme = "hugo-split-theme"
